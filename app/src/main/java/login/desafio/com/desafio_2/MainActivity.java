@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText editTextSenha;
     private SharedPreferences.Editor editor;
 
-    public class Config {
+    public class desafio {
         public static final String LOGIN = "login";
         public static final String SENHA = "senha";
         public static final String SHARED_PREF_NAME = "Desafio_2";
